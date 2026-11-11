@@ -1,0 +1,14 @@
+Folder PATH listing
+Volume serial number is 8AC3-BC56
+C:.
+³   .gitignore
+³   README.md
+³   tree.txt
+³   
+ÃÄÄÄapp
+ÃÄÄÄdocs
+³       phase-0-tree.PNG
+³       
+ÃÄÄÄinfrastructure
+ÃÄÄÄnotebooks
+ÀÄÄÄtests
